@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-business-workflow-reconciliation-3b42eab6-nuxt",
+  "capabilityKey": "liberusoftware/module-liberu-business-workflow-reconciliation",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-module-liberu-business-workflow-reconciliation-3b42eab6-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-business-workflow-reconciliation.md",
+  "presentationPlan": "projects/accounting/nuxt/liberu-business-workflow-reconciliation.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
